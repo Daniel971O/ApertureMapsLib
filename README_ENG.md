@@ -351,7 +351,7 @@ https://t.me/kharkivstroi
 
 If this library helped your project, I would be happy if you credit it in your description or mention the project =)
 
-Special thanks to everyone who follows my project and helps me not to burn out.
+Thanks to everyone who follows my project and helps me not to burn out.
                                                    <3
 
                                            -+***+:    -+***+:                                          
