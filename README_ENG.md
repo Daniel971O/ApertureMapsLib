@@ -344,24 +344,6 @@ https://t.me/kharkivstroi
 
 ---
 
-!LICENSE!:
-
-The library is distributed freely for:
-
-- modders
-
-- modpacks
-
-- non-commercial projects (if you want to use this library for commercial purposes, you can contact me and we will discuss it.)
-
-Allowed:
-
-- use
-
-- modification
-
-- integration into mods
-
 If this library helped your project, I would be happy if you credit it in your description or mention the project =)
 
 Special thanks to everyone who follows my project and helps me not to burn out.
