@@ -323,6 +323,10 @@ The jar is a coremod (manifest contains `FMLCorePlugin`) and must be placed into
 
 ---
 
+## In-game demo
+
+---
+
 If you want to improve the library or you find an unpleasant bug, include in your report:
 
 - texture dimensions,
