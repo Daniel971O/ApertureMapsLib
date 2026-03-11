@@ -389,3 +389,10 @@ Special thanks to everyone who follows my project and helps me not to burn out.
            *+=+=-++-=:=:%*+%++.@-@@@@#.+:=-:=@--@=#@%:@+:.*@+ .@-#*-#+@@.+%#*##*%++ %****#@@           
        ....*---*--=====+@##@##*@#@@@@%++****#@%%@#%@%*@#++#@#=+@*%@@@#@@+#@@@@@@%##-@@@@@@@@:...       
        -========================================================================================                    
+
+---
+
+## Chisel Team
+
+Special thanks to the Chisel Team for creating ConnectedTexturesMod (CTM),
+which inspired some of the solutions used in this library and made it possible to work with pattern textures.
