@@ -324,6 +324,7 @@ The jar is a coremod (manifest contains `FMLCorePlugin`) and must be placed into
 ---
 
 ## In-game demo
+<img width="1920" height="1080" alt="2026-03-11_06 35 29" src="https://github.com/user-attachments/assets/4b7c5f46-7af7-48b6-a79f-7235ac094edb" />
 
 ---
 
