@@ -1,21 +1,38 @@
-.gradle
-**/build/
-!src/**/build/
+﻿.git/*
+.gradle/*
+.idea/*
+.settings/*
+.metadata/*
+bin/*
+build/*
+run/*
+minecraft/*
+eclipse/*
+.apt_generated/*
+.apt_generated_tests/*
 
-# Ignore Gradle GUI config
-gradle-app.setting
-
-# Avoid ignoring Gradle wrapper jar file (.jar files are usually ignored)
-!gradle-wrapper.jar
-
-# Avoid ignore Gradle wrappper properties
-!gradle-wrapper.properties
-
-# Cache of project
-.gradletasknamecache
-
-# Eclipse Gradle plugin generated files
-# Eclipse Core
 .project
-# JDT-specific (Eclipse Java Development Tools)
 .classpath
+
+*.iml
+*.ipr
+*.iws
+*.launch
+.factorypath
+
+forge*changelog.txt
+
+# Local Gradle user cache
+.gradle-user/*
+# Local deps (do not redistribute third-party jars)
+deps/*.jar
+libs/*.jar
+# Logs / OS noise
+*.log
+logs/*
+crash-reports/*
+hs_err_pid*
+Thumbs.db
+Desktop.ini
+.DS_Store
+
