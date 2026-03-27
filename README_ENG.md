@@ -103,6 +103,24 @@ The simplest: enable the library with safe defaults.
 }
 ```
 
+Example with **ConnectedTexturesMod (CTM)**  Pattern size: 10×5 blocks
+
+```json
+{
+  "ctm": {
+    "ctm_version": 1,
+    "type": "pattern",
+    "extra": {
+      "width": 10,
+      "height": 5
+    }
+  },
+  "aperturemapslib": {
+    "enabled": true
+  }
+}
+```
+
 Equivalent to:
 - `enabled=true`
 - `square_reserve=true`
